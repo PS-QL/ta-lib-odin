@@ -225,7 +225,18 @@ To bypass array runtime safety bounds checks and completely unlock hardware-leve
 
     odin build main.odin -file -o:speed -no-bounds-check -microarch:native
 
+
 ------------------------------
+
+
+### 📊 Output
+
+Here is the terminal output matrix grid executing the multi-factor strategy, showing automated long entry signals, trend exits, transaction fees, and active portfolio PnL curves:
+
+![Odin TA-Lib Strategy Output](Screenshot_talib_via_odin_output.png)
+
+------------------------------
+
 ## 📜 License
 This software project wrapper is distributed under the open-source BSD-2-Clause License. It grants full commercial, private, and modification distribution rights while explicitly safeguarding contributors from downstream marketing endorsement liabilities.
 ------------------------------
