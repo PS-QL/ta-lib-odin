@@ -99,7 +99,7 @@ To stream live pricing feeds without triggering runtime heap reallocations or th
       }
       
 ------------------------------
-## 📊 Comprehensive Multi-Factor Strategy Example
+## 📊 3. Comprehensive Multi-Factor Strategy Example
 The module merges overlapping mathematical indicators seamlessly into an isolated strategic matrix loop:
 
     
